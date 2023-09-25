@@ -13,11 +13,8 @@
     <string name="gallery_button_description">Myndasafn</string>
     <string name="google_lens_button_description">Opna Google Lens</string>
     <string name="image_view_description">Forskoðun myndar</string>
-    <string name="photo_mode_button_description">Skipta yfir í ljósmyndaham</string>
     <string name="pro_button_description">Atvinnustillingar</string>
-    <string name="qr_mode_button_description">Skipta yfir í QR-skönnunarham</string>
     <string name="shutter_button_description">Lokari</string>
-    <string name="video_mode_button_description">Skipta yfir í myndskeiðsham</string>
     <string name="video_recording_state_button_description">Halda áfram/Bíða með upptöku myndskeiðs</string>
     <string name="timer_off">SLÖKKT Á NIÐURTELJARA</string>
     <string name="timer_3">NIÐURTALN. 3s</string>
@@ -33,9 +30,6 @@
     <string name="mic_off">HLJÓÐN. AF</string>
     <string name="mic_on">HLJÓÐN. Á</string>
     <string name="settings">STILLINGAR</string>
-    <string name="selector_photo">LJÓSMYND</string>
-    <string name="select_video">MYNDSKEIÐ</string>
-    <string name="select_scan">SKANNA</string>
     <string name="app_permissions_toast">Heimildir ekki veittar af notandanum.</string>
     <string name="camcorder_unsupported_toast">Engin myndavél styður upptöku myndskeiða.</string>
     <string name="qr_copy_description">Afrita á klippispjald</string>
@@ -56,16 +50,19 @@
     <string name="shutter_sound_title">Hljóð lokara</string>
     <string name="shutter_sound_summary">Spila hljóð við töku myndar</string>
     <string name="leveler_title">Hallamál</string>
+    <string name="leveler_summary">Vísir sem sýnir stefnu tækis</string>
     <string name="photo_capture_mode_title">Upptökuhamur</string>
     <string name="photo_capture_mode_maximize_quality">Hámarka gæði</string>
     <string name="photo_capture_mode_minimize_latency">Lágmarka töf</string>
     <string name="enable_zsl_title">Virkja ZSL þegar það er tiltækt</string>
+    <string name="enable_zsl_summary">Notaðu tafarlausa myndatöku (Zero-Shutter Lag - ZSL) þegar myndavélin styður slíkt. Sjónbrellur á myndir eru ekki virkar í þessum ham. Athugaðu að þetta er eiginleiki á tilraunastigi</string>
     <string name="photo_ffc_mirror_title">Spegla frammyndavél</string>
     <string name="video_stabilization_title">Virkja stöðugleikajöfnun myndmerkis</string>
     <string name="shortcut_selfie">Taka sjálfsmynd</string>
     <string name="shortcut_video">Taka myndskeið</string>
     <string name="shortcut_qr">Skanna strikamerki</string>
     <string name="location_permission_dialog_title">Bæta við staðsetningum ljósmynda og myndskeiða</string>
+    <string name="location_permission_dialog_description">Kortleggðu minningarnar þínar með því að hafa með lýsigögn staðsetningar í hverri myndatöku.</string>
     <string name="location_permission_dialog_later">Síðar</string>
     <string name="location_permission_dialog_turn_on">Kveikja á</string>
 </resources>
